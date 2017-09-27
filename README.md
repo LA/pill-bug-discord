@@ -17,4 +17,8 @@ npm install
 TOKEN=APP_BOT_USER_TOKEN_FROM_DISCORD npm start
 ```
 
+```
+!PBRoll X
+```
+
 Enjoy :)
